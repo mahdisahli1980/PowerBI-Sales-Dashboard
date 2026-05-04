@@ -56,6 +56,12 @@ The dashboard provides a clear overview of key business indicators such as total
 
 ![Cancelled Orders](cancelled_orders.png)
 
+## Full Report
+
+The full exported Power BI report is available here:
+
+[View the full PDF report](PowerBI_Sales_Dashboard_Report.pdf)
+
 ## Author
 
 **Mahdi Sahli**  
