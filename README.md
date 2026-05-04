@@ -10,8 +10,10 @@ The dashboard provides a clear overview of key business indicators such as total
 
 ### Sales Overview
 
-![Sales Overview](images/sales_overview.png)
+![Sales Overview](sales_overview.png)
 
 ### Cancelled Orders
 
-![Cancelled Orders](images/cancelled_orders.png)
+![Cancelled Orders](cancelled_orders.png)
+
+
