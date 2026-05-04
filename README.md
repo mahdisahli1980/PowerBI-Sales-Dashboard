@@ -20,6 +20,16 @@ The dashboard provides a clear overview of key business indicators such as total
 - DAX
 - Data visualization
 - Business intelligence
+
+## Skills Demonstrated
+
+- Data cleaning and transformation with Power Query
+- Creation of DAX measures and KPIs
+- Dashboard layout design
+- Interactive filters and slicers
+- Sales performance analysis
+- Business-oriented data storytelling
+
 ## Dashboard Preview
 
 ### Sales Overview
