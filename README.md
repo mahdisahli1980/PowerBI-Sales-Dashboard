@@ -30,6 +30,22 @@ The dashboard provides a clear overview of key business indicators such as total
 - Sales performance analysis
 - Business-oriented data storytelling
 
+## Key Metrics
+
+- Total Sales
+- Number of Orders
+- Quantity Sold
+- Average Order Value
+- Cancelled Orders
+- Cancelled Sales Amount
+
+## Project Files
+
+- `rapport_sales2.pbix`: Power BI report file
+- `sales_overview.png`: Dashboard preview image
+- `cancelled_orders.png`: Cancelled orders analysis preview
+- `README.md`: Project documentation
+
 ## Dashboard Preview
 
 ### Sales Overview
@@ -39,5 +55,14 @@ The dashboard provides a clear overview of key business indicators such as total
 ### Cancelled Orders
 
 ![Cancelled Orders](cancelled_orders.png)
+
+## Author
+
+**Mahdi Sahli**  
+Data Analyst | Power BI | SQL | Python | Business Intelligence
+
+- GitHub: [mahdisahli1980](https://github.com/mahdisahli1980)
+- Tableau Public: [Mahdi Sahli](https://public.tableau.com/app/profile/mahdi.sahli/vizzes)
+- Portfolio: [mahdisahli1980.github.io](https://mahdisahli1980.github.io/)
 
 
